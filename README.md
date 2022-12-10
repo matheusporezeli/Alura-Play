@@ -26,4 +26,4 @@ Desktop:
 
 ## Detalhes do projeto
 
-Aprenda a utilizar propriedades do Flexbox na prática construindo um projeto responsivo, alterando o eixo de itens para horizontal ou vertical, aplicando vídeos de forma responsiva utilizando propriedades Flexbox e integrando as propriedades Flexbox com outras propriedades CSS
+Aprendi a utilizar propriedades do Flexbox na prática construindo um projeto responsivo, alterando o eixo de itens para horizontal ou vertical, aplicando vídeos de forma responsiva utilizando propriedades Flexbox e integrando as propriedades Flexbox com outras propriedades CSS
